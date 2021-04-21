@@ -1858,7 +1858,7 @@ a {
         display: block;
         width: 100%;
         padding-bottom: 41.2em;
-        background-image: url(images/store_image.jpg);
+        background-image: url(../images/store_image.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
